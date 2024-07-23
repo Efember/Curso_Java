@@ -60,8 +60,8 @@ public class Resta {
         System.out.println("Ingrese el segundo nombre");
         int numero2 = entrada.nextInt();
 
-        int suma = numero1 - numero2;
-        System.out.println("La suma es: " + suma);
+        int resta = numero1 - numero2;
+        System.out.println("La suma es: " + resta);
 
     }
 }
